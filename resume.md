@@ -1,5 +1,5 @@
 Chase Houser
 
-- Four years of secondary education
-- Freshman at Northeastern University
+- Computer Science and Business Administration
+- Expected Graduation Date 2027
 
