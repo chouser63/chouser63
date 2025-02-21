@@ -1,16 +1,10 @@
-### Hi there 👋
+# Hi, I'm Chase 👋  
 
-<!--
-**chouser63/chouser63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a rising second-year **Computer Science and Business Administration** student at Northeastern University with a deep passion for learning new things.  
 
-Here are some ideas to get you started:
+🚴 In the past, I've worked as a **bike mechanic**, a **home automation technician**, and co-managed a local **charity that donated refurbished bicycles**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am from Illinois
--->
+💻 Currently, I'm a **full-stack web developer** at NEU's Khoury College, working on *Odyssey*, a college-specific learning platform.  
+🔍 I'm particularly interested in **backend architecture**—how different systems interact, scale, and integrate, especially within **AWS**.  
+
+---
